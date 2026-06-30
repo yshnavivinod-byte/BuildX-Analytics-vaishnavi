@@ -28,13 +28,13 @@ Science & Technology (Sci&Tech) graduates receive the highest average salary, wh
 - ## Project Screenshots
 
 ### Dashboard - Page 1
-![Dashboard Page 1](dashboard_1.png)
+![Dashboard 1](dashboard_1.png)
 
 ### Dashboard - Page 2
-![Dashboard Page 2](dashboard_2.png)
+![Dashboard 2](dashboard_2.png)
 
 ### Dashboard - Page 3
-![Dashboard Page 3](dashboard_3.png)
+![Dashboard 3](dashboard_3.png)
 
 ## Author
 Vaishnavi Vinod
